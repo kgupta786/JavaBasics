@@ -6,5 +6,9 @@ public class Main {
     public static void main(String[] args) {
        JavaTypes j1 = new JavaTypes();
        j1.process();
+
+        System.out.println("#########################");
+       JavaConditionals jc = new JavaConditionals();
+       jc.process();
     }
 }
