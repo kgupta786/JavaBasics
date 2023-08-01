@@ -40,5 +40,8 @@ public class JavaTypes {
         String s = "helloWorld";
         System.out.println("String value is " + s);
 
+
+
+
     }
 }

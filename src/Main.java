@@ -7,8 +7,14 @@ public class Main {
        JavaTypes j1 = new JavaTypes();
        j1.process();
 
-        System.out.println("#########################");
+       System.out.println("#########################");
        JavaConditionals jc = new JavaConditionals();
        jc.process();
+
+        System.out.println("##########################");
+        JavaLoops jl = new JavaLoops();
+        jl.process();
+
+
     }
 }
